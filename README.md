@@ -1,16 +1,16 @@
-👋 Hi, I'm @NyoLaeMay
+👋 Hi, I'm @Asett
 
-I'm an ICT student at Rangsit University, learning to build useful and creative tech solutions. I'm especially interested in mobile app development, software engineering, and practical applications of AI.
+Final-year ICT student at Rangsit University with a strong interest in Python, automation, and building real-world tech solutions. I'm currently sharpening my skills in web development and data analysis, aiming to create tools that solve practical problems.
 
 🧰 Skills & Tools
-- **Languages**: Python, Dart, Kotlin, JavaScript 
-- **Other**: Git, Firebase, MySQL
+- **Languages**: Html, Css, Javascript, 
+- **Other**: Git, MySQL, TailwindCss
 
 🌱 Currently Learning  
-- Building full-stack apps
+- React
 
 📫 Contact
-- Email: nyolaemay122@gmail.com
-- LinkedIn: www.linkedin.com/in/nyolaemay
+- Email: asetalex25@gmail.com
+- LinkedIn: www.linkedin.com/in/asett12
 
 Thanks for stopping by!

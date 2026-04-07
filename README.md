@@ -7,7 +7,7 @@ Final-year ICT student at Rangsit University with a strong interest in Python, a
 - **Other**: Git, MySQL, TailwindCss
 
 🌱 Currently Learning  
-- ThreeJs
+- Golang
 
 📫 Contact
 - Email: asetalex25@gmail.com
